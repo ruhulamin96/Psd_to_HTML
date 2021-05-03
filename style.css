@@ -1,8 +1,25 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    text-transform: capitalize;
-    font-family:'Times New Roman', Times, serif;
+body{
+    background-color: black;
+}
+.container{
+	height: 200px;
+	width: 100%;
+    text-align: center;
+    margin: 0px auto;
+    
+
+}
+p,h1{
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+}
+button{
+	text-align: center;
+	font-size: 40px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-right: 15px;
+    border: 5px solid white;
     
 }
